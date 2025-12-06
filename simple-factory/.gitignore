@@ -1,0 +1,11 @@
+# IntelliJ IDEA
+.idea/
+
+# Maven Wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# Outros
+target/
+*.iml
